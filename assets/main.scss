@@ -11,27 +11,3 @@ footer {
   display: none !important;
 }
 
-/* (선택) 헤더 메뉴 줄바꿈/잘림 방지 */
-.site-nav .trigger {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  gap: 12px;
-}
-
-.site-nav .page-link {
-  margin: 0;
-  padding: 0;
-  font-size: 15px;
-  white-space: nowrap;
-}
-
-.site-header {
-  padding: 12px 0;
-}
-
-@media screen and (max-width: 900px) {
-  .site-nav .trigger { gap: 10px; }
-  .site-nav .page-link { font-size: 14px; }
-}
-
