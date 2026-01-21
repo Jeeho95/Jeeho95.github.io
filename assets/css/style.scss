@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* footer 숨기기 */
+.site-footer { display: none; }
+/* 네비 메뉴가 줄바꿈되면서 마지막 항목이 잘리는 문제 방지 */
+.site-nav .page-link {
+  margin-left: 12px;   /* 기본보다 간격 줄이기 */
+  padding: 0;
+  font-size: 15px;     /* 약간 작게 */
+}
+
+@media screen and (max-width: 900px) {
+  .site-nav .page-link {
+    margin-left: 10px;
+    font-size: 14px;
+  }
+}
