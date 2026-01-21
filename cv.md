@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 ---
 
-## Download
+## Download Full PDF
 - [CV (PDF)](/files/cv.pdf)
 
 ---
