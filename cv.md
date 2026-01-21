@@ -4,10 +4,6 @@ title: "CV"
 permalink: /cv/
 ---
 
-## Download Full PDF
-- [CV (PDF)](/files/cv.pdf)
-
----
 
 ## Employment
 - **Research Fellow**, Department of Mathematical Sciences, Seoul National University (Sep 2025 – Present)
@@ -21,3 +17,6 @@ permalink: /cv/
 ## Honors
 - Excellent Teaching Assistant, Department of Mathematical Sciences, SNU (Feb 2025)
 - National Scholarship for Science and Engineering (2014 – 2018)
+
+## Download Full PDF
+- [CV (PDF)](/files/cv.pdf)
