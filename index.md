@@ -10,9 +10,9 @@ permalink: /
     <h1 style="margin-top:0;">Welcome!</h1>
     
     <p>
-      Thank you for visiting my website. I am <strong>Jeeho Ryu</strong>, a Research Fellow in         the Department of Mathematical Sciences at Seoul National University.
+      Thank you for visiting my website. I am <strong>Jeeho Ryu</strong>, a Research Fellow in the Department of Mathematical Sciences at Seoul National University.
       My research interests lie in probability theory and stochastic algorithms used in machine learning.
-      I earned my Ph.D from Seoul National University under supervision of prof. Insuk Seo.            Soon, I am going to visit Northwestern University, Chicago 
+      I earned my Ph.D from Seoul National University under supervision of prof. Insuk Seo. Soon, I am going to visit Northwestern University, Chicago 
       as a postdoctoral research scholar for two years. 
     </p>
 
@@ -20,7 +20,7 @@ permalink: /
       <strong>Email:</strong> kj6979@snu.ac.kr, kj6979@gmail.com<br>
       <strong>CV (PDF):</strong> <a href="/files/cv.pdf">Download</a><br>
       <strong>Google Scholar:</strong> <a href="LINK">link</a><br>
-      <strong>GitHub:</strong> <a href="LINK">link</a>
+      <strong>GitHub:</strong> <a href="https://github.com/Jeeho95">link</a>
     </p>
   </div>
 
@@ -34,7 +34,6 @@ permalink: /
 </div>
 
 
----
 ## Quick Links
 - [Research](/research/)
 - [Publications](/publications/)
