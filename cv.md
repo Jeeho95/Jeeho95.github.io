@@ -1,13 +1,7 @@
 ---
 layout: page
-title: "CV"
+title: "CV Summary"
 permalink: /cv/
----
-
-## Download
-- [CV (PDF)](/files/cv.pdf)
-
----
 
 ## Employment
 - **Research Fellow**, Department of Mathematical Sciences, Seoul National University (Sep 2025 – Present)
@@ -15,7 +9,7 @@ permalink: /cv/
 ## Education
 - **Ph.D. in Mathematics**, Seoul National University (Sep 2018 – Aug 2025)  
   Advisor: Prof. Insuk Seo  
-  (Military service as a Technical Research Personnel: Mar 2022 – Feb 2025)
+- Military service as a Technical Research Personnel (Mar 2022 – Feb 2025)
 - **B.S. in Statistics and Mathematics**, Seoul National University (Mar 2014 – Aug 2018)
 
 ## Honors
