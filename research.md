@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 ---
 
-## Overview
 I work on probability theory at the interface of stochastic processes and machine learning, aiming to build rigorous, quantitative laws for **discrete-time stochastic algorithms** beyond diffusion approximations.
 
 ## Themes
