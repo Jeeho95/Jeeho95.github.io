@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <!-- (선택) 프로필 사진: assets/img/headshot.jpg 업로드하면 활성화 -->
-<!-- ![Headshot](/assets/img/headshot.jpg){: style="max-width:220px;border-radius:14px;"} -->
+![Headshot](/assets/img/headshot.jpg){: style="max-width:220px;border-radius:14px;"}
 
 # Your Name
 
