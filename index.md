@@ -10,7 +10,10 @@ permalink: /
   <div style="flex:1; min-width:260px;">
     <h1 style="margin-top:0;">Welcome!</h1>
     <p>
-      Thank you for visiting my website. I’m <strong>Jeeho Ryu</strong>, a Postdoctoral Researcher at Seoul National University.
+      Thank you for visiting my website. I am <strong>Jeeho Ryu</strong>, a Research Fellow in         the Department of Mathematical Sciences at Seoul National University.
+      My research interests lie in probability theory and stochastic algorithms used in machine learning.
+      <\p>
+      <p>
       I earned my Ph.D from Seoul National University under supervision of prof. Insuk Seo. Soon, I am going to visit Northwestern University, Chicago 
       as a postdoctoral research scholar for two years. 
     </p>
@@ -31,3 +34,11 @@ permalink: /
   </div>
 
 </div>
+
+
+---
+## Quick Links
+- [Research](/research/)
+- [Publications](/publications/)
+- [Talks](/talks/)
+- [CV](/cv/)
