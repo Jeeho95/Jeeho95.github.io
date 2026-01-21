@@ -4,6 +4,11 @@ title: "CV"
 permalink: /cv/
 ---
 
+## Download
+- [CV (PDF)](/files/cv.pdf)
+
+---
+
 ## Employment
 - **Research Fellow**, Department of Mathematical Sciences, Seoul National University (Sep 2025 – Present)
 
