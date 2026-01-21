@@ -24,8 +24,7 @@ permalink: /
     <p>
       <strong>Email:</strong> kj6979@snu.ac.kr, kj6979@gmail.com<br>
       <strong>CV (PDF):</strong> <a href="/files/cv.pdf">Download</a><br>
-      <strong>Google Scholar:</strong> <a href="YOUR_SCHOLAR_URL">link</a><br>
-      <strong>GitHub:</strong> <a href="YOUR_GITHUB_URL">link</a>
+      <strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?hl=ko&user=ZFak2-4AAAAJ">link</a><br>
     </p>
   </div>
 
@@ -37,10 +36,3 @@ permalink: /
 </div>
 
 <hr>
-
-## Quick Links
-- [Research](/research/)
-- [Publications](/publications/)
-- [Talks](/talks/)
-- [CV](/cv/)
-
