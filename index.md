@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Jeeho Ryu / 유지호"
+title: "Welcome!"
 permalink: /
 ---
-<h1 style="margin-top:0;">Welcome!</h1>
+
 <div style="display:flex; gap:24px; align-items:flex-start; justify-content:space-between; flex-wrap:wrap;">
 
   <div style="flex:1; min-width:260px;">
