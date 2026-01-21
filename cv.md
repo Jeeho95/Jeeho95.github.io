@@ -2,6 +2,7 @@
 layout: page
 title: "CV"
 permalink: /cv/
+---
 
 ## Employment
 - **Research Fellow**, Department of Mathematical Sciences, Seoul National University (Sep 2025 – Present)
