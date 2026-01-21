@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welcome"
+title: "Welcome!"
 permalink: /
 ---
 
@@ -10,7 +10,9 @@ permalink: /
   <div style="flex:1; min-width:260px;">
     <h1 style="margin-top:0;">Welcome!</h1>
     <p>
-      I’m <strong>Jeeho Ryu</strong>, a Postdoctoral Researcher at Seoul National University.
+      Thank you for visiting my website. I’m <strong>Jeeho Ryu</strong>, a Postdoctoral Researcher at Seoul National University.
+      I earned my Ph.D from Seoul National University under supervision of prof. Insuk Seo. Also, I will soon visit Northwestern University, Chicago 
+      as a postdoctoral research scholar for two years. 
       (여기에 한두 줄 소개 문장)
     </p>
 
