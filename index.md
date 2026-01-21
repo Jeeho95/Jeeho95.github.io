@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "Welcome"
 permalink: /
 ---
 
@@ -10,7 +10,7 @@ permalink: /
   <div style="flex:1; min-width:260px;">
     <h1 style="margin-top:0;">Welcome!</h1>
     <p>
-      I’m <strong>Jeeho Lee</strong>, a Postdoctoral Researcher at Northwestern University.
+      I’m <strong>Jeeho Ryu</strong>, a Postdoctoral Researcher at Seoul National University.
       (여기에 한두 줄 소개 문장)
     </p>
 
