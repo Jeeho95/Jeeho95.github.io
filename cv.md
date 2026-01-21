@@ -18,5 +18,7 @@ permalink: /cv/
 - Excellent Teaching Assistant, Department of Mathematical Sciences, SNU (Feb 2025)
 - National Scholarship for Science and Engineering (2014 – 2018)
 
+---
+
 ## Download Full PDF
 - [CV (PDF)](/files/cv.pdf)
