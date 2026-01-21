@@ -4,31 +4,29 @@ title: "Home"
 permalink: /
 ---
 
-<!-- (선택) 프로필 사진: assets/img/headshot.jpg 업로드하면 활성화 -->
-![Headshot](/assets/img/headshot.jpg){: style="max-width:220px;border-radius:14px;"}
+<div style="display:flex; gap:24px; align-items:flex-start; justify-content:space-between; flex-wrap:wrap;">
 
-# Your Name
+  <!-- 왼쪽: 텍스트 -->
+  <div style="flex:1; min-width:260px;">
+    <h1 style="margin-top:0;">Welcome!</h1>
+    <p>
+      I’m <strong>Jeeho Lee</strong>, a Postdoctoral Researcher at Northwestern University.
+      (여기에 한두 줄 소개 문장)
+    </p>
 
-Postdoctoral Researcher, Department of XXX, Northwestern University
+    <p>
+      <strong>Email:</strong> youremail@northwestern.edu<br>
+      <strong>CV (PDF):</strong> <a href="/files/cv.pdf">Download</a><br>
+      <strong>Google Scholar:</strong> <a href="LINK">link</a><br>
+      <strong>GitHub:</strong> <a href="LINK">link</a>
+    </p>
+  </div>
 
-**Email:** youremail@northwestern.edu  
-**Office:** (Building, Room)  
-**CV (PDF):** [Download](/files/cv.pdf)  
-**Google Scholar:** (link)  
-**GitHub:** (link)  
-**arXiv / ORCID:** (link)
+  <!-- 오른쪽: 사진 -->
+  <div style="flex:0 0 220px; text-align:right; min-width:220px;">
+    <img src="/assets/img/headshot.jpg"
+         alt="Headshot"
+         style="width:220px; max-width:100%; border-radius:14px;">
+  </div>
 
----
-
-## Research Interests
-- Probability theory
-- Mathematical AI
-- (Keyword 3)
-- (Keyword 4)
-
-## Short Bio
-한 단락(3~6문장)로 “무슨 문제를 하고 / 무엇에 관심 있고 / 어떤 방향인지”만 적기.
-
-## News (optional)
-- **2026.01** Started as a Postdoctoral Researcher at Northwestern University.
-- **2025.12** Paper accepted at ...
+</div>
