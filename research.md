@@ -4,24 +4,19 @@ title: "Research"
 permalink: /research/
 ---
 
-## Summary
-여기에는 **연구를 한 문단으로 요약**해. (3~6문장)
-- 무엇(문제/분야)
-- 왜 중요한지
-- 내가 뭘 했는지(한두 가지 대표 기여)
-- 앞으로의 방향
+## Overview
+I work on probability theory at the interface of stochastic processes and machine learning, aiming to build rigorous, quantitative laws for **discrete-time stochastic algorithms** beyond diffusion approximations.
 
-## Themes / Projects
-### 1) Theme A (짧은 제목)
-- **Problem:** (무슨 문제)
-- **My contribution:** (내 기여 1~2줄)
-- **Related:** [Paper 1](/publications/), [Code](link)
+## Themes
+- **Stochastic recurrence / exit times:** rigorous finite-time and rare-event behavior for discrete stochastic dynamics motivated by SGD-like updates.
+- **Metastability & Edge of Stability:** understanding stability thresholds and large excursions that drive regime switches during training.
+- **Anisotropic noise & generalization:** linking directional noise, landscape geometry, and algorithmic notions of flatness (e.g., via escape times or stability margins).
 
-### 2) Theme B
-- **Problem:** ...
-- **My contribution:** ...
-- **Related:** ...
+## Previous Projects
+- **Exit-time theory for Kesten’s stochastic recurrence equations:** scaling laws for mean exit times and their connection to heavy-tailed stationary behavior.
 
-## Collaborators (optional)
-- Name (Institution)
-- Name (Institution)
+## Current Projects
+- **CFR+ convergence rates:** asymptotic rates for Counterfactual Regret Minimization+ in imperfect-information games (Poker), with provable exponents in simple benchmark games.
+- A metastability-based theory for EoS driven by rare events and non-Gaussian effects.
+- Trajectory-aware, data-dependent generalization theory grounded in the regions actually visited by training.
+
