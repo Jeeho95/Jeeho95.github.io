@@ -1,0 +1,17 @@
+title: "Your Name"
+description: "Personal academic website"
+theme: minima
+
+# 상단 메뉴에 노출할 페이지들 (이 파일명 그대로 유지)
+header_pages:
+  - research.md
+  - publications.md
+  - talks.md
+  - cv.md
+
+# 옵션: GitHub Pages에서 기본 플러그인 환경 사용
+plugins:
+  - jekyll-feed
+
+# 옵션: URL 설정(커스텀 도메인 없으면 비워도 됨)
+# url: "https://username.github.io"
