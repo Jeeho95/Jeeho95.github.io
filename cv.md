@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "CV Summary"
+title: "CV"
 permalink: /cv/
 
 ## Employment
