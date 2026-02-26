@@ -6,7 +6,8 @@ permalink: /cv/
 
 
 ## Employment
-- **Research Fellow**, Department of Mathematical Sciences, Seoul National University (Sep 2025 – Present)
+- **Research Scholar**, Department of IEMS, Northwestern University (Mar 2026 - Present)
+- **Research Fellow**, Department of Mathematical Sciences, Seoul National University (Sep 2025 – Feb 2026)
 
 ## Education
 - **Ph.D. in Mathematics**, Seoul National University (Sep 2018 – Aug 2025)  
