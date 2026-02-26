@@ -9,15 +9,15 @@ permalink: /
   <div style="flex:1; min-width:260px;">
 
     <p>
-      Thank you for visiting my website. I am <strong>Jeeho Ryu</strong>, a Research Fellow in the
-      Department of Mathematical Sciences at Seoul National University. My research interests lie in
-      probability theory and stochastic algorithms used in machine learning.
+      Thank you for visiting my website. I am <strong>Jeeho Ryu</strong>, a Postdoctoral Researcher in the
+      Department of IEMS(Industrial Engineering and Management Sciences) at Northwestern University. My research interests lie in
+      stochastic algorithms used in machine learning based on probability theory.
     </p>
 
     <p>
      I earned my Ph.D. from Seoul National University under the supervision of Prof.
 <a href="https://www.math.snu.ac.kr/~insuk.seo/" target="_blank" rel="noopener">Insuk Seo</a>.
-      Soon, I will visit Northwestern University (Chicago) as a postdoctoral research scholar for two years and work with Prof. 
+      I am visiting Northwestern University as a postdoctoral research scholar for two years and working with Prof. 
 <a href="https://chrhee.github.io/" target="_blank" rel="noopener">Chang-Han Rhee</a>.
     </p>
 
