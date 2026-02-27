@@ -1,7 +1,7 @@
 # Jeeho Ryu (유지호)
 ---
 layout: page
-title: "Welcome!"
+title: "Jeeho Ryu"
 permalink: /
 ---
 
@@ -14,7 +14,7 @@ permalink: /
       Department of IEMS(Industrial Engineering and Management Sciences) at Northwestern University. My research interests lie in
       stochastic algorithms used in machine learning based on probability theory.
     </p>
-
+<h2 style="margin-top:8px;">Welcome!</h2>
     <p>
      I earned my Ph.D. from Seoul National University under the supervision of Prof.
 <a href="https://www.math.snu.ac.kr/~insuk.seo/" target="_blank" rel="noopener">Insuk Seo</a>.
