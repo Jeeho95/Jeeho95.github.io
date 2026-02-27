@@ -9,8 +9,8 @@ permalink: /
   <div style="flex:1; min-width:260px;">
 
     <p>
-      Thank you for visiting my website. I am <strong>Jeeho Ryu</strong>, a Postdoctoral Researcher in the
-      Department of IEMS(Industrial Engineering and Management Sciences) at Northwestern University. My research interests lie in
+      <strong>Welcome!</strong> Thank you for visiting my website. I am a Postdoctoral Researcher in the
+      Department of IEMS(Industrial Engineering and Management Sciences) at <strong>Northwestern University</strong>. My research interests lie in
       stochastic algorithms used in machine learning based on probability theory.
     </p>
 <h2 style="margin-top:8px;">Welcome!</h2>
