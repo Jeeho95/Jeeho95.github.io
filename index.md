@@ -12,17 +12,14 @@ permalink: /
       <strong>Welcome!</strong> Thank you for visiting my website. I am a Postdoctoral Researcher in the
       Department of IEMS(Industrial Engineering and Management Sciences) at <strong>Northwestern University</strong>. My research interests lie in
       stochastic algorithms used in machine learning based on probability theory.
-    </p>
-<h2 style="margin-top:8px;">Welcome!</h2>
-    <p>
      I earned my Ph.D. from Seoul National University under the supervision of Prof.
 <a href="https://www.math.snu.ac.kr/~insuk.seo/" target="_blank" rel="noopener">Insuk Seo</a>.
-      I am visiting Northwestern University as a postdoctoral research scholar for two years and working with Prof. 
+      I am visiting Northwestern University as a postdoctoral research scholar and working with Prof. 
 <a href="https://chrhee.github.io/" target="_blank" rel="noopener">Chang-Han Rhee</a>.
     </p>
 
     <p>
-      <strong>Email:</strong> kj6979@snu.ac.kr, kj6979@gmail.com<br>
+      <strong>Email:</strong> jeeho.ryu [at] northwestern [dot] edu, kj6979 [at] gmail [dot] com<br>
       <strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?hl=ko&user=ZFak2-4AAAAJ">link</a><br>
       <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/jeeho-ryu-394755364">link</a><br>
       
