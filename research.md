@@ -14,7 +14,7 @@ I work on probability theory at the interface of stochastic processes and machin
 - **Anisotropic noise & generalization:** linking directional noise, landscape geometry, and algorithmic notions of flatness (e.g., via escape times or stability margins).
 
 ## Previous Projects
-- **Exit-time theory for Kesten’s stochastic recurrence equations:** scaling laws for mean exit times and their connection to heavy-tailed stationary behavior.
+- Exit-time theory for Kesten’s stochastic recurrence equations: scaling laws for mean exit times and their connection to heavy-tailed stationary behavior.
 
 ## Current Projects
 - **CFR+ convergence rates:** asymptotic rates for Counterfactual Regret Minimization+ in imperfect-information games (Poker), with provable exponents in simple benchmark games.
