@@ -12,7 +12,7 @@ permalink: /
       <strong>Welcome!</strong> Thank you for visiting my website. I am a Postdoctoral Researcher in the
       Department of IEMS(Industrial Engineering and Management Sciences) at <strong>Northwestern University</strong>. My research interests lie in
       stochastic algorithms used in machine learning based on probability theory.
-     I earned my Ph.D. from Seoul National University under the supervision of Prof.
+     I earned my Ph.D. from <strong>Seoul National University</strong> under the supervision of Prof.
 <a href="https://www.math.snu.ac.kr/~insuk.seo/" target="_blank" rel="noopener">Insuk Seo</a>.
       I am visiting Northwestern University as a postdoctoral research scholar and working with Prof. 
 <a href="https://chrhee.github.io/" target="_blank" rel="noopener">Chang-Han Rhee</a>.
