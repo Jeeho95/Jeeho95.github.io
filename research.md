@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-I work on probability theory at the interface of stochastic processes and machine learning, aiming to build rigorous, quantitative laws for **discrete-time stochastic algorithms** beyond diffusion approximations.
+I am currently working on developing rigorous theoretical foundations for the generalization performance of machine learning models. Grounded in probability theory, my work aims to characterize the fundamental mechanisms of generalization and design improved training methods based on these insights.
 
 ---
 
@@ -17,7 +17,6 @@ I work on probability theory at the interface of stochastic processes and machin
 - Exit-time theory for Kesten’s stochastic recurrence equations: scaling laws for mean exit times and their connection to heavy-tailed stationary behavior.
 
 ## Current Projects
-- **CFR+ convergence rates:** asymptotic rates for Counterfactual Regret Minimization+ in imperfect-information games (Poker), with provable exponents in simple benchmark games.
 - A metastability-based theory for EoS driven by rare events and non-Gaussian effects.
 - Trajectory-aware, data-dependent generalization theory grounded in the regions actually visited by training.
-
+- CFR+ convergence rates: asymptotic rates for Counterfactual Regret Minimization+ in imperfect-information games (Poker), with provable exponents in simple benchmark games.
